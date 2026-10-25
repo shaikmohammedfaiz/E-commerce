@@ -76,7 +76,7 @@ Provides a consolidated executive view with visuals including:
 - Rating vs Sales
 - Orders by Order Status
 - Sales by Year
-- 
+
 This page is suited to a final review of sales mix, geography, customer segments, order status, and yearly performance.
 
 **Tools and Techniques**
